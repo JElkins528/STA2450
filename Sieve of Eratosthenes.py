@@ -19,3 +19,4 @@ def sieve(x):
     return all_numbers
 
 print(sieve(100))
+print("testing push pull")
